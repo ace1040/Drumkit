@@ -54,7 +54,7 @@ body{
     text-shadow: 3px 3px white;
 }
 .w{
-    background-image: url(images/tom1.png);
+    background-image: url("images/tom1.png");
     background-size: cover;
     background-position: center;
     background-color: white;
